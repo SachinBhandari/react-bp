@@ -1,0 +1,14 @@
+# environemnt files
+.env
+
+# node packages
+node_modules
+
+#build folders
+dist
+
+#caches
+.cache
+
+#editors
+.idea
